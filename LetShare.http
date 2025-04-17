@@ -1,0 +1,6 @@
+@LetShare_HostAddress = http://localhost:5102
+
+GET {{LetShare_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
